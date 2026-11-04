@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
+  <rect width="900" height="1100" fill="#f6f1e5"/>
+  <rect x="28" y="28" width="844" height="1044" rx="10" fill="none" stroke="#9bb2bd" stroke-width="6" stroke-dasharray="20 16"/>
+  <circle cx="450" cy="440" r="90" fill="none" stroke="#7998ab" stroke-width="12"/>
+  <path d="M235 730l145-180 105 100 100-130 105 210z" fill="none" stroke="#7998ab" stroke-width="12" stroke-linejoin="round"/>
+  <text x="450" y="850" text-anchor="middle" fill="#476b88" font-size="58" font-family="sans-serif">请上传照片</text>
+</svg>

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "files": [
+    "assets/index-DFMH_IpQ.css",
+    "assets/index-mmsOyfdt.js",
+    "images/childhood-mask.svg",
+    "images/city-note-1.png",
+    "images/city-note-2.png",
+    "images/city-note-3.png",
+    "images/city-note-4.png",
+    "images/photo-booth/birthday-stickers.png",
+    "images/photo-placeholder.svg",
+    "index.html",
+    "mediapipe/wasm/vision_wasm_internal.js",
+    "mediapipe/wasm/vision_wasm_internal.wasm",
+    "mediapipe/wasm/vision_wasm_nosimd_internal.js",
+    "mediapipe/wasm/vision_wasm_nosimd_internal.wasm",
+    "models/selfie_segmenter.tflite"
+  ]
+}
